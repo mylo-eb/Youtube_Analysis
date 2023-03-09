@@ -5,11 +5,11 @@ As millions of videos with additional text information and tags are uploaded on 
 Analyzing the content of videos being uploaded on YouTube and identifying the different categories of trending videos at various times can be highly beneficial. By understanding the optimal time to upload videos, users can save time and effort. Moreover, this information can aid companies in allocating their time and resources to capitalize on growing trends, ultimately leading to increased revenue and profits.
 
 ## Requirements
--numpy
--scikit-learn
--scipy
--matplotlib
--panda
+- Numpy
+- Scikit-learn
+- Scipy
+- Matplotlib
+- Panda
 
 ## Exploratory Data Analysis (EDA)
 -"Entertainment" category had the most videos with comments enabled, while "Travel & Events" had the lowest view count.
